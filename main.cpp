@@ -1,3 +1,8 @@
+/////Jorge Rivera shopping list (vectors)
+///Created on November 23,2020       
+// Dr. Tyson/Tarrant County Community College
+//The purpose of this assigment was to create a scoreboard for football
+//This program illustrates how to use private and public classes and creating daughter classes from daughter classes
 #include <iostream>
 #include <string>
 #include <unistd.h>
